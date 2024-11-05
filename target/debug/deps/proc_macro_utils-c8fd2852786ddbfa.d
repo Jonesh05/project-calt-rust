@@ -1,0 +1,10 @@
+/home/jonesh/develop/project-calc-rust/wasm_calculator/target/debug/deps/libproc_macro_utils-c8fd2852786ddbfa.rmeta: /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/lib.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/parser.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/assert.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/__private.rs
+
+/home/jonesh/develop/project-calc-rust/wasm_calculator/target/debug/deps/libproc_macro_utils-c8fd2852786ddbfa.rlib: /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/lib.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/parser.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/assert.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/__private.rs
+
+/home/jonesh/develop/project-calc-rust/wasm_calculator/target/debug/deps/proc_macro_utils-c8fd2852786ddbfa.d: /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/lib.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/parser.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/assert.rs /home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/__private.rs
+
+/home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/lib.rs:
+/home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/parser.rs:
+/home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/assert.rs:
+/home/jonesh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.8.0/src/__private.rs:
